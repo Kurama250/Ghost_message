@@ -1,0 +1,5 @@
+{
+    "token": "YOUR_TOKEN",
+    "ghostServers": ["SERVER_ID_1", "SERVER_ID_2"],
+    "ghostMessageTimeout": 30
+}
