@@ -12,5 +12,5 @@ else
 fi
 git clone https://github.com/Kurama250/Ghost_message.git
 cd Ghost_message/
-npm install fs discord.js
+npm install fs discord.js@12
 npm install pm2 -g
